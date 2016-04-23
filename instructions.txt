@@ -1,5 +1,0 @@
-log into 1and1.com
-
-sftp u78303315@davespiegel.com
-ssh -Y u78303315@davespiegel.com
-rsync -avuPt ./ u78303315@davespiegel.com:.

@@ -1,7 +1,0 @@
-rsync -avuPt dave@ssh.sns.ias.edu:/home/dave/public_html/index.html .
-rsync -avuPt dave@ssh.sns.ias.edu:/home/dave/public_html/Research.html .
-rsync -avuPt dave@ssh.sns.ias.edu:/home/dave/public_html/Teaching.html .
-rsync -avuPt dave@ssh.sns.ias.edu:/home/dave/public_html/Talks.html .
-rsync -avuPt dave@ssh.sns.ias.edu:/home/dave/public_html/Models.html .
-rsync -avuPt dave@ssh.sns.ias.edu:/home/dave/public_html/Publicity.html .
-rsync -avuPt dave@ssh.sns.ias.edu:/home/dave/public_html/imgs .
